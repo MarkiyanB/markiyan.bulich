@@ -47,7 +47,7 @@ Passionate about DevOps practices, monitoring, and cloud technologies.
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [your-linkedin](https://linkedin.com/in/markiyan-bulich/)  
+- LinkedIn: [markiyan-bulich](https://linkedin.com/in/markiyan-bulich/)  
 - Email: markiyan.bulich@gmail.com 
 - Telegram: [@markiyanchikk](https://t.me/markiyanchikk)
 
